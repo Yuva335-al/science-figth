@@ -1,0 +1,6 @@
+{
+  "name": "Science Fighter: 16-Bit Clash of Minds",
+  "description": "A retro 16-bit 2D fighting game featuring legendary scientists battling with physics, electricity, radioactivity, and spacetime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
